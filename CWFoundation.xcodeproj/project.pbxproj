@@ -153,7 +153,7 @@
 		A6B254F6136BFD5100D5F57F /* SampleAppAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SampleAppAppDelegate.m; path = "Sample Classes/NetworkMonitor/SampleAppAppDelegate.m"; sourceTree = SOURCE_ROOT; };
 		A6B5CF561382ACFF00D806A8 /* README-Translator */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "README-Translator"; sourceTree = "<group>"; };
 		A6ED906F1369473E002DCEE4 /* README */ = {isa = PBXFileReference; fileEncoding = 5; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
-		A6ED913213694ABB002DCEE4 /* CWLocalization.h */ = {isa = PBXFileReference; fileEncoding = 5; lastKnownFileType = sourcecode.c.h; name = CWLocalization.h; path = Classes/CWLocalization.h; sourceTree = "<group>"; };
+		A6ED913213694ABB002DCEE4 /* CWLocalization.h */ = {isa = PBXFileReference; fileEncoding = 5; lastKnownFileType = sourcecode.c.h; lineEnding = 0; name = CWLocalization.h; path = Classes/CWLocalization.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		A6ED913313694ABB002DCEE4 /* CWLog.h */ = {isa = PBXFileReference; fileEncoding = 5; lastKnownFileType = sourcecode.c.h; name = CWLog.h; path = Classes/CWLog.h; sourceTree = "<group>"; };
 		A6ED913413694ABB002DCEE4 /* NSError+CWAdditions.h */ = {isa = PBXFileReference; fileEncoding = 5; lastKnownFileType = sourcecode.c.h; name = "NSError+CWAdditions.h"; path = "Classes/NSError+CWAdditions.h"; sourceTree = "<group>"; };
 		A6ED913513694ABB002DCEE4 /* NSError+CWAdditions.m */ = {isa = PBXFileReference; fileEncoding = 5; lastKnownFileType = sourcecode.c.objc; name = "NSError+CWAdditions.m"; path = "Classes/NSError+CWAdditions.m"; sourceTree = "<group>"; };
