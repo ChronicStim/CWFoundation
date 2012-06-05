@@ -31,7 +31,7 @@
 #import <Foundation/Foundation.h>
 
 #define CWLocalizedStringFromTableInBundleNamed(key, tbl, bundleName) \
-	CPTLocalizedStringFromTableInBundle((key), \
+	NSLocalizedStringFromTableInBundle((key), \
                                        (tbl), \
                                        [NSBundle bundleWithPath:[[NSBundle mainBundle] pathForResource:(bundleName) \
                                                                                                 ofType:@"bundle"]], \
